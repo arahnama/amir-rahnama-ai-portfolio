@@ -1,6 +1,6 @@
 export const profile = {
   name: 'Dr. Amir Rahnama',
-  role: 'AI & Machine Learning Engineer',
+  role: 'AI & Machine Learning Engineer | Generative AI & Agentic AI',
   business: 'Rahnama AI Scientific Consulting',
   email: 'Rahnama.aiconsulting@gmail.com',
   about:
