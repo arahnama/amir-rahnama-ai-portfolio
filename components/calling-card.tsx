@@ -17,6 +17,7 @@ export function CallingCard() {
 
         <div className="flex flex-col gap-3">
           <h1 className="text-balance text-4xl font-semibold tracking-tight md:text-5xl">{profile.name}</h1>
+          <p className="text-sm text-navy-foreground/60">Toronto, Canada</p>
           <p className="text-lg text-navy-foreground/80 md:text-xl">
             <span className="text-accent-bright">{profile.role}</span>
           </p>
