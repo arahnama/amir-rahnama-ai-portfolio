@@ -2,7 +2,7 @@ export const profile = {
   name: 'Dr. Amir Rahnama',
   role: 'AI & Machine Learning Engineer | Generative AI & Agentic AI',
   business: 'Rahnama AI Scientific Consulting',
-  email: 'Rahnama.aiconsulting@gmail.com',
+  email: 'arahnamab@gmail.com',
   about:
     'I am an AI and Machine Learning professional with a Ph.D. in Mathematics, an M.Sc. in Computer Science, and over 8 years of applied experience in machine learning, NLP, and data science. I have worked on AI and ML projects in financial services, government, and research. My experience includes machine learning, generative AI, RAG, NLP, Python, and production AI systems.',
   skills: [
