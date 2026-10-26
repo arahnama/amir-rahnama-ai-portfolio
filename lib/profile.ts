@@ -15,9 +15,20 @@ export const profile = {
     'Data Science',
   ],
   projectAreas: [
-    { sector: 'Financial Services', summary: 'AI and machine learning projects in the financial services sector.' },
-    { sector: 'Government', summary: 'AI and machine learning projects for government.' },
-    { sector: 'Research', summary: 'AI and machine learning projects in research settings.' },
+   
+{
+  sector: 'Financial Services',
+  summary: 'EY / BMO: Developed and evaluated mortgage and HELOC credit-risk prediction models using Python, SQL, logistic regression, random forests, and XGBoost. Applied feature engineering, model validation, and performance evaluation using AUC, F1-score, and recall.'
+},
+{
+  sector: 'Government',
+  summary: 'Justice Canada: Developed NLP workflows for legal document classification, semantic search, and information extraction. Transport Canada: Built scalable product classification pipelines using Python, SQL, Spark/PySpark, and machine learning.'
+},
+{
+  sector: 'Generative AI & Agentic AI',
+  summary: 'Designed and evaluated LLM and RAG workflows using Python, LangChain, LangGraph, and FAISS. Worked with document chunking, embeddings, retrieval, prompt design, model evaluation, and hallucination mitigation.'
+}
+
   ],
   education: [
     { degree: 'Ph.D.', field: 'Mathematics' },
