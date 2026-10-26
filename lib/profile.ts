@@ -4,7 +4,7 @@ export const profile = {
   business: 'Rahnama AI Scientific Consulting',
   email: 'arahnamab@gmail.com',
   about:
-    'I am an AI and Machine Learning professional with a Ph.D. in Mathematics, an M.Sc. in Computer Science, and over 8 years of applied experience in machine learning, NLP, and data science. I have worked on AI and ML projects in financial services, government, and research. My experience includes machine learning, generative AI, RAG, NLP, Python, and production AI systems.',
+    Senior AI and Machine Learning Engineer with a Ph.D. in Mathematics, an M.Sc. in Computer Science, and over 8 years of applied experience in financial services, government, and research. Specialized in Python, predictive modeling, NLP, Generative AI, RAG, and Agentic AI. Experienced in developing and evaluating machine learning solutions, building reproducible workflows, and integrating AI capabilities into practical applications.
   skills: [
     'Machine Learning',
     'Generative AI',
