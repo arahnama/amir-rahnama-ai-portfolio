@@ -3,6 +3,10 @@ export const profile = {
   role: 'AI & Machine Learning Engineer | Generative AI & Agentic AI',
   business: 'Rahnama AI Scientific Consulting',
   email: 'arahnamab@gmail.com',
+  github: 'https://github.com/arahnama',
+  linkedin: 'https://www.linkedin.com/in/amir-rahnamai-barghi-939188229/',
+  googleScholar: 'https://scholar.google.com/citations?user=555TTQUAAAAJ',
+
   about:
     Senior AI and Machine Learning Engineer with a Ph.D. in Mathematics, an M.Sc. in Computer Science, and over 8 years of applied experience in financial services, government, and research. Specialized in Python, predictive modeling, NLP, Generative AI, RAG, and Agentic AI. Experienced in developing and evaluating machine learning solutions, building reproducible workflows, and integrating AI capabilities into practical applications.
   skills: [
