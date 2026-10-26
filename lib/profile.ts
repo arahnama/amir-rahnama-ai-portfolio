@@ -8,8 +8,6 @@ export const profile = {
   googleScholar: 'https://scholar.google.com/citations?user=555TTQUAAAAJ',
 
   about:
-    
-  about:
     "Senior AI and Machine Learning Engineer with a Ph.D. in Mathematics, an M.Sc. in Computer Science, and over 8 years of applied experience in financial services, government, and research. Specialized in Python, predictive modeling, NLP, Generative AI, RAG, and Agentic AI.",
 
      skills: [
