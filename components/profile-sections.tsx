@@ -89,10 +89,6 @@ export function ContactSection() {
         </a>
       </div>
 
-      
-        </a>
-      </div>
-
       <div className="mt-5 flex flex-wrap gap-4 text-sm">
         <a href={profile.github} target="_blank" rel="noopener noreferrer">
           GitHub
@@ -104,8 +100,6 @@ export function ContactSection() {
           Google Scholar
         </a>
       </div>
-
-    </CardSection>
 
     </CardSection>
   )
